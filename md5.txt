@@ -1,0 +1,5 @@
+
+MD5sums 1.2 freeware for Win9x/ME/NT/2000/XP+
+Copyright (C) 2001-2005 Jem Berkes - http://www.pc-tools.net/
+
+filelist                                       453083d2543903163ae885219abe07fc
