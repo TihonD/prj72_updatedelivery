@@ -1,2 +1,2 @@
 @echo off
-start %~dp0prj72_v2.1.0-b-daa.exe
+start %~dp0prj72_v3.2.0-b.exe
